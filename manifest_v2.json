@@ -16,7 +16,7 @@
       "media/01-cloud-account.png"
     ],
     "icon": "logo.png",
-    "cover": "media/download.png",
+    "cover": "media/preview.png",
     "author": [
       {
         "name": "ccicc_icu",
@@ -48,14 +48,14 @@
   ],
   "downloads": {
     "xmb9p": {
-      "version": "2.0.0",
-      "file_name": "downloads/JSLab-Community-2.0.0.rpk",
-      "versionCode": 202
+      "version": "2.0.2",
+      "file_name": "downloads/JSLab-Community-2.0.2.rpk",
+      "versionCode": 2020
     },
     "xmb10p": {
-      "version": "2.0.0",
-      "file_name": "downloads/JSLab-Community-2.0.0.rpk",
-      "versionCode": 202
+      "version": "2.0.2",
+      "file_name": "downloads/JSLab-Community-2.0.2.rpk",
+      "versionCode": 2020
     }
   },
   "ext": {}
