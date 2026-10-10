@@ -16,7 +16,7 @@
       "media/01-cloud-account.png"
     ],
     "icon": "logo.png",
-    "cover": "media/preview.png",
+    "cover": "media/gpt-image-1 (2)_compressed (2).png",
     "author": [
       {
         "name": "ccicc_icu",
@@ -50,12 +50,12 @@
     "xmb9p": {
       "version": "2.0.2",
       "file_name": "downloads/JSLab-Community-2.0.2.rpk",
-      "versionCode": 2020
+      "versionCode": 2021
     },
     "xmb10p": {
       "version": "2.0.2",
       "file_name": "downloads/JSLab-Community-2.0.2.rpk",
-      "versionCode": 2020
+      "versionCode": 2021
     }
   },
   "ext": {}
