@@ -19,8 +19,8 @@
     "cover": "media/download.png",
     "author": [
       {
-        "name": "ccicc.icu",
-        "bindABAccount": false
+        "name": "ccicc_icu",
+        "bindABAccount": true
       }
     ]
   },
