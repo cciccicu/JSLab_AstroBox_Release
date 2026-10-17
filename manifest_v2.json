@@ -48,10 +48,14 @@
   ],
   "downloads": {
     "xmb9p": {
-      "version": "2.0.3",
-      "file_name": "downloads/JSLab-Community-2.0.3.rpk",
-      "versionCode": 2030,
+      "version": "2.0.4",
+      "file_name": "downloads/JSLab-Community-2.0.4.rpk",
+      "versionCode": 2040,
       "updatelogs": [
+        {
+          "version": "2.0.4",
+          "content": "修复了一些BUG；适配RW系列。"
+        },
         {
           "version": "2.0.3",
           "content": "修复了一批BUG；云端新增将脚本打包为独立RPK功能。"
@@ -59,13 +63,50 @@
       ]
     },
     "xmb10p": {
-      "version": "2.0.3",
-      "file_name": "downloads/JSLab-Community-2.0.3.rpk",
-      "versionCode": 2030,
+      "version": "2.0.4",
+      "file_name": "downloads/JSLab-Community-2.0.4.rpk",
+      "versionCode": 2040,
       "updatelogs": [
+        {
+          "version": "2.0.4",
+          "content": "修复了一些BUG；适配RW系列。"
+        },
         {
           "version": "2.0.3",
           "content": "修复了一批BUG；云端新增将脚本打包为独立RPK功能。"
+        }
+      ]
+    },
+    "xmrw5": {
+      "version": "2.0.4",
+      "file_name": "downloads/JSLab-Community-RW-2.0.4.rpk",
+      "versionCode": 2040,
+      "updatelogs": [
+        {
+          "version": "2.0.4",
+          "content": "修复了一些BUG；适配RW系列。"
+        }
+      ]
+    },
+    "xmrw5xring": {
+      "version": "2.0.4",
+      "file_name": "downloads/JSLab-Community-RW-2.0.4.rpk",
+      "versionCode": 2040,
+      "updatelogs": [
+        {
+          "version": "2.0.4",
+          "content": "修复了一些BUG；适配RW系列。"
+        }
+      ]
+    },
+    "xmrw6": {
+      "version": "2.0.4",
+      "file_name": "downloads/JSLab-Community-RW-2.0.4.rpk",
+      "versionCode": 2040,
+      "updatelogs": [
+        {
+          "version": "2.0.4",
+          "content": "修复了一些BUG；适配RW系列。"
         }
       ]
     }
