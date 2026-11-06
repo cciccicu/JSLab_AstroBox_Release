@@ -48,10 +48,14 @@
   ],
   "downloads": {
     "xmb9p": {
-      "version": "2.0.6",
-      "file_name": "downloads/JSLab-Community-2.0.6.rpk",
-      "versionCode": 2061,
+      "version": "2.0.7",
+      "file_name": "downloads/JSLab-Community-Pro-2.0.7.rpk",
+      "versionCode": 2070,
       "updatelogs": [
+        {
+          "version": "2.0.7",
+          "content": "- 脚本 UI 新增图片、Base64 小图标与 Canvas 画布支持，可编写更丰富的界面和图形工具。\n- 统一使用基于 Sarasa Mono SC 与 Noto Emoji 的等宽字体，覆盖内置输入法字符与常用单色 Emoji；主应用与独立快应用模板同步更新，并附带字体开源许可。\n- 重新整理设备端帮助与云端文档，补充功能使用指南、脚本接口说明及实现原理介绍。"
+        },
         {
           "version": "2.0.6",
           "content": "- 根据设备信息选择默认网络传输方式，可在设置中切换直连或网络桥接。\n- JS 市场新增点赞和取消点赞，优化列表与详情页操作。\n- 改进网络错误提示，市场加载失败时优先显示错误码，并展示更完整的错误内容。"
@@ -67,10 +71,14 @@
       ]
     },
     "xmb10p": {
-      "version": "2.0.6",
-      "file_name": "downloads/JSLab-Community-2.0.6.rpk",
-      "versionCode": 2061,
+      "version": "2.0.7",
+      "file_name": "downloads/JSLab-Community-Pro-2.0.7.rpk",
+      "versionCode": 2070,
       "updatelogs": [
+        {
+          "version": "2.0.7",
+          "content": "- 脚本 UI 新增图片、Base64 小图标与 Canvas 画布支持，可编写更丰富的界面和图形工具。\n- 统一使用基于 Sarasa Mono SC 与 Noto Emoji 的等宽字体，覆盖内置输入法字符与常用单色 Emoji；主应用与独立快应用模板同步更新，并附带字体开源许可。\n- 重新整理设备端帮助与云端文档，补充功能使用指南、脚本接口说明及实现原理介绍。"
+        },
         {
           "version": "2.0.6",
           "content": "- 根据设备信息选择默认网络传输方式，可在设置中切换直连或网络桥接。\n- JS 市场新增点赞和取消点赞，优化列表与详情页操作。\n- 改进网络错误提示，市场加载失败时优先显示错误码，并展示更完整的错误内容。"
@@ -86,10 +94,14 @@
       ]
     },
     "xmrw5": {
-      "version": "2.0.6",
-      "file_name": "downloads/JSLab-Community-RW-2.0.6.rpk",
-      "versionCode": 2061,
+      "version": "2.0.7",
+      "file_name": "downloads/JSLab-Community-RW-2.0.7.rpk",
+      "versionCode": 2070,
       "updatelogs": [
+        {
+          "version": "2.0.7",
+          "content": "- 脚本 UI 新增图片、Base64 小图标与 Canvas 画布支持，可编写更丰富的界面和图形工具。\n- 统一使用基于 Sarasa Mono SC 与 Noto Emoji 的等宽字体，覆盖内置输入法字符与常用单色 Emoji；主应用与独立快应用模板同步更新，并附带字体开源许可。\n- 重新整理设备端帮助与云端文档，补充功能使用指南、脚本接口说明及实现原理介绍。"
+        },
         {
           "version": "2.0.6",
           "content": "- 根据设备信息选择默认网络传输方式，可在设置中切换直连或网络桥接。\n- JS 市场新增点赞和取消点赞，优化列表与详情页操作。\n- 改进网络错误提示，市场加载失败时优先显示错误码，并展示更完整的错误内容。"
@@ -101,10 +113,14 @@
       ]
     },
     "xmrw5xring": {
-      "version": "2.0.6",
-      "file_name": "downloads/JSLab-Community-RW-2.0.6.rpk",
-      "versionCode": 2061,
+      "version": "2.0.7",
+      "file_name": "downloads/JSLab-Community-RW-2.0.7.rpk",
+      "versionCode": 2070,
       "updatelogs": [
+        {
+          "version": "2.0.7",
+          "content": "- 脚本 UI 新增图片、Base64 小图标与 Canvas 画布支持，可编写更丰富的界面和图形工具。\n- 统一使用基于 Sarasa Mono SC 与 Noto Emoji 的等宽字体，覆盖内置输入法字符与常用单色 Emoji；主应用与独立快应用模板同步更新，并附带字体开源许可。\n- 重新整理设备端帮助与云端文档，补充功能使用指南、脚本接口说明及实现原理介绍。"
+        },
         {
           "version": "2.0.6",
           "content": "- 根据设备信息选择默认网络传输方式，可在设置中切换直连或网络桥接。\n- JS 市场新增点赞和取消点赞，优化列表与详情页操作。\n- 改进网络错误提示，市场加载失败时优先显示错误码，并展示更完整的错误内容。"
@@ -116,10 +132,14 @@
       ]
     },
     "xmrw6": {
-      "version": "2.0.6",
-      "file_name": "downloads/JSLab-Community-RW-2.0.6.rpk",
-      "versionCode": 2061,
+      "version": "2.0.7",
+      "file_name": "downloads/JSLab-Community-RW-2.0.7.rpk",
+      "versionCode": 2070,
       "updatelogs": [
+        {
+          "version": "2.0.7",
+          "content": "- 脚本 UI 新增图片、Base64 小图标与 Canvas 画布支持，可编写更丰富的界面和图形工具。\n- 统一使用基于 Sarasa Mono SC 与 Noto Emoji 的等宽字体，覆盖内置输入法字符与常用单色 Emoji；主应用与独立快应用模板同步更新，并附带字体开源许可。\n- 重新整理设备端帮助与云端文档，补充功能使用指南、脚本接口说明及实现原理介绍。"
+        },
         {
           "version": "2.0.6",
           "content": "- 根据设备信息选择默认网络传输方式，可在设置中切换直连或网络桥接。\n- JS 市场新增点赞和取消点赞，优化列表与详情页操作。\n- 改进网络错误提示，市场加载失败时优先显示错误码，并展示更完整的错误内容。"
