@@ -48,10 +48,14 @@
   ],
   "downloads": {
     "xmb9p": {
-      "version": "2.0.7",
-      "file_name": "downloads/JSLab-Community-Pro-2.0.7.rpk",
-      "versionCode": 2070,
+      "version": "2.0.8",
+      "file_name": "downloads/JSLab-Community-Pro-2.0.8.rpk",
+      "versionCode": 2080,
       "updatelogs": [
+        {
+          "version": "2.0.8",
+          "content": "- 脚本同步按分块写入设备文件，降低传输大脚本时的峰值内存占用。\n- 改善脚本与字体传输失败时的提示，区分 JSLab 与系统组件的错误。\n- 包含 2.0.7 的图片与 Canvas 支持、等宽字体和新版帮助文档。"
+        },
         {
           "version": "2.0.7",
           "content": "- 脚本 UI 新增图片、Base64 小图标与 Canvas 画布支持，可编写更丰富的界面和图形工具。\n- 统一使用基于 Sarasa Mono SC 与 Noto Emoji 的等宽字体，覆盖内置输入法字符与常用单色 Emoji；主应用与独立快应用模板同步更新，并附带字体开源许可。\n- 重新整理设备端帮助与云端文档，补充功能使用指南、脚本接口说明及实现原理介绍。"
@@ -71,10 +75,14 @@
       ]
     },
     "xmb10p": {
-      "version": "2.0.7",
-      "file_name": "downloads/JSLab-Community-Pro-2.0.7.rpk",
-      "versionCode": 2070,
+      "version": "2.0.8",
+      "file_name": "downloads/JSLab-Community-Pro-2.0.8.rpk",
+      "versionCode": 2080,
       "updatelogs": [
+        {
+          "version": "2.0.8",
+          "content": "- 脚本同步按分块写入设备文件，降低传输大脚本时的峰值内存占用。\n- 改善脚本与字体传输失败时的提示，区分 JSLab 与系统组件的错误。\n- 包含 2.0.7 的图片与 Canvas 支持、等宽字体和新版帮助文档。"
+        },
         {
           "version": "2.0.7",
           "content": "- 脚本 UI 新增图片、Base64 小图标与 Canvas 画布支持，可编写更丰富的界面和图形工具。\n- 统一使用基于 Sarasa Mono SC 与 Noto Emoji 的等宽字体，覆盖内置输入法字符与常用单色 Emoji；主应用与独立快应用模板同步更新，并附带字体开源许可。\n- 重新整理设备端帮助与云端文档，补充功能使用指南、脚本接口说明及实现原理介绍。"
@@ -94,10 +102,14 @@
       ]
     },
     "xmrw5": {
-      "version": "2.0.7",
-      "file_name": "downloads/JSLab-Community-RW-2.0.7.rpk",
-      "versionCode": 2070,
+      "version": "2.0.8",
+      "file_name": "downloads/JSLab-Community-RW-2.0.8.rpk",
+      "versionCode": 2080,
       "updatelogs": [
+        {
+          "version": "2.0.8",
+          "content": "- 脚本同步按分块写入设备文件，降低传输大脚本时的峰值内存占用。\n- 改善脚本与字体传输失败时的提示，区分 JSLab 与系统组件的错误。\n- 包含 2.0.7 的图片与 Canvas 支持、等宽字体和新版帮助文档。"
+        },
         {
           "version": "2.0.7",
           "content": "- 脚本 UI 新增图片、Base64 小图标与 Canvas 画布支持，可编写更丰富的界面和图形工具。\n- 统一使用基于 Sarasa Mono SC 与 Noto Emoji 的等宽字体，覆盖内置输入法字符与常用单色 Emoji；主应用与独立快应用模板同步更新，并附带字体开源许可。\n- 重新整理设备端帮助与云端文档，补充功能使用指南、脚本接口说明及实现原理介绍。"
@@ -113,10 +125,14 @@
       ]
     },
     "xmrw5xring": {
-      "version": "2.0.7",
-      "file_name": "downloads/JSLab-Community-RW-2.0.7.rpk",
-      "versionCode": 2070,
+      "version": "2.0.8",
+      "file_name": "downloads/JSLab-Community-RW-2.0.8.rpk",
+      "versionCode": 2080,
       "updatelogs": [
+        {
+          "version": "2.0.8",
+          "content": "- 脚本同步按分块写入设备文件，降低传输大脚本时的峰值内存占用。\n- 改善脚本与字体传输失败时的提示，区分 JSLab 与系统组件的错误。\n- 包含 2.0.7 的图片与 Canvas 支持、等宽字体和新版帮助文档。"
+        },
         {
           "version": "2.0.7",
           "content": "- 脚本 UI 新增图片、Base64 小图标与 Canvas 画布支持，可编写更丰富的界面和图形工具。\n- 统一使用基于 Sarasa Mono SC 与 Noto Emoji 的等宽字体，覆盖内置输入法字符与常用单色 Emoji；主应用与独立快应用模板同步更新，并附带字体开源许可。\n- 重新整理设备端帮助与云端文档，补充功能使用指南、脚本接口说明及实现原理介绍。"
@@ -132,10 +148,14 @@
       ]
     },
     "xmrw6": {
-      "version": "2.0.7",
-      "file_name": "downloads/JSLab-Community-RW-2.0.7.rpk",
-      "versionCode": 2070,
+      "version": "2.0.8",
+      "file_name": "downloads/JSLab-Community-RW-2.0.8.rpk",
+      "versionCode": 2080,
       "updatelogs": [
+        {
+          "version": "2.0.8",
+          "content": "- 脚本同步按分块写入设备文件，降低传输大脚本时的峰值内存占用。\n- 改善脚本与字体传输失败时的提示，区分 JSLab 与系统组件的错误。\n- 包含 2.0.7 的图片与 Canvas 支持、等宽字体和新版帮助文档。"
+        },
         {
           "version": "2.0.7",
           "content": "- 脚本 UI 新增图片、Base64 小图标与 Canvas 画布支持，可编写更丰富的界面和图形工具。\n- 统一使用基于 Sarasa Mono SC 与 Noto Emoji 的等宽字体，覆盖内置输入法字符与常用单色 Emoji；主应用与独立快应用模板同步更新，并附带字体开源许可。\n- 重新整理设备端帮助与云端文档，补充功能使用指南、脚本接口说明及实现原理介绍。"
